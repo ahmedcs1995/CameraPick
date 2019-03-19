@@ -17,8 +17,7 @@ import java.io.IOException
 import java.text.SimpleDateFormat
 import java.util.*
 
-class ImageUtils {
-    companion object {
+object ImageUtils {
 
         val MIN_WIDTH_QUALITY = 400 // min pixels
         val MIN_HEIGHT_QUALITY = 400
@@ -118,5 +117,5 @@ class ImageUtils {
 
 
     }
-}
+
 
