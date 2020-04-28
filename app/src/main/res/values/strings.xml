@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">ImagePickerDemo</string>
+
+
+    <string name="dialog_title">Select Action</string>
+
+    <string name="gallery_option_text">Select photo from gallery</string>
+
+    <string name="camera_option_text">Capture photo from camera</string>
 </resources>
